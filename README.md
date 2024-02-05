@@ -1,5 +1,6 @@
-# clima
-<p>Ultilizei uma api da OpenWather onde atualizava as informações do clima em tempo real</p>
+# web-clima
+<p>Neste projeto você consegue pesquisar uma cidade e ver como está o clima nela,
+ Ultilizei uma api da OpenWather onde atualizava as informações do clima em tempo real</p>
  
 <h2>Site feito com:</h2>
 <ul>
